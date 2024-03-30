@@ -1,4 +1,5 @@
 # Freshman-Special-Topic
+##  2024Deep Learning Topic.
 
 ## 0.Transformer, Bert的深入浅出
 ### 主讲人：崔铭轩
