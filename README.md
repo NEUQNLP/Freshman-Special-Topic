@@ -1,8 +1,8 @@
 # Freshman-Special-Topic
-##  2024Deep Learning Topic.
+##  2024 Deep Learning Topic新生专题
 
 ## 0.Transformer, Bert的深入浅出
-### 主讲人：崔铭轩
+### 主讲人：崔铭轩、冀凤献
 
 
 ## 1.LLM+知识图谱
